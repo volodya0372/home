@@ -1,7 +1,0 @@
-com\example\hostel_service\dto\HotelFull.class
-com\example\hostel_service\dto\HotelFull$Address.class
-com\example\hostel_service\dto\HotelFull$Contacts.class
-com\example\hostel_service\dto\HotelFull$ArrivalTime.class
-com\example\hostel_service\controller\HotelController.class
-com\example\hostel_service\dto\HotelSummary.class
-com\example\hostel_service\dto\HotelCreateRequest.class
